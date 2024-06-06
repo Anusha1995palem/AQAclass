@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AQAClass.A9_Enhancing_StudentQAForm">
+      <class name="BHilevelbases.B19_TestXLSX">
         <methods>
+          <include name="XLSX"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
-          <include name="registerform"/>
         </methods>
-      </class> <!-- AQAClass.A9_Enhancing_StudentQAForm -->
+      </class> <!-- BHilevelbases.B19_TestXLSX -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

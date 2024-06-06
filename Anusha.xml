@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite   name = "suite">
+<test    name =  "test">
+<clasess>
+<class name = "AQAClass.A7_INR_optionsvalidation">
+<menthods>
+<include name = "options">
+</include>
+</menthods></class>
+
+<class name = "AQAClass.A4_Information_Commands">
+
+<methods>
+<includes name = "Gmail_image">
+
+</includes>
+
+
+</methods>
+
+
+</class>
+</clasess>
+</test>
+</suite>
