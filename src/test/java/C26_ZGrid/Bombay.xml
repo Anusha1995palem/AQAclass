@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Suite">
+
+<test name = "Chrome">
+<parameter  name = "browser"  value = "Chrome">
+<classes>
+<class name = "AQAClass.A1_Alerts"/>
+<class name = "AQAClass.A6_Firstselectedoption"/>
+<class name = "BHilevelbases. B15_Frames"/>
+
+
+</classes>
+
+
+</parameter>
+</test> 
+
+</suite>
