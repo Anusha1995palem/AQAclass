@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="C23_Page_Object_Model.TestCaseExectuion">
+      <class name="C25_Input_Output_Stream.Input_Output_Stream">
         <methods>
-          <include name="allexecuction"/>
           <include name="aftertest"/>
-          <include name="setup"/>
+          <include name="beforetest"/>
+          <include name="Functionality"/>
         </methods>
-      </class> <!-- C23_Page_Object_Model.TestCaseExectuion -->
+      </class> <!-- C25_Input_Output_Stream.Input_Output_Stream -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

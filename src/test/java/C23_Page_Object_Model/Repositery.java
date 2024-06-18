@@ -13,9 +13,6 @@ public static WebDriver driver;
 
 public static void login() {
 	
-	//driver.findElement(Locators.Username1).sendkeys(Testdata.Username1);
-	//driver.findElement(Locators.password).sendkeys(Testdata.Password);
-	//driver.findElements(Locators.login).click();
 	
 	driver.findElement(Locators.Username1).sendKeys(Testdata.Username1);
 	driver.findElement(Locators.Password).sendKeys(Testdata.Password);
